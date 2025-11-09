@@ -1,0 +1,49 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Linux system files
+*~
+.DS_Store
+
+# Vim swap files
+.*.swp
+.*.swo
+
+# Editor folders/files
+.vscode/
+.idea/
+
+# Shell history files
+.bash_history
+.zsh_history
+.fish_history
+
+# Temporary and backup files
+*.bak
+*.old
+
+# Environment and secret files
+.env
+*.key
+.netrc
+.aws/
+
+# Cache directories
+.cache/
+
+# Build and package manager logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+
